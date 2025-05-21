@@ -1,5 +1,5 @@
 # Food-ordering-system-C-language-
-This food ordering system is developed using C progarmming language as a part of my first-semester project work for BIT program
+This food ordering system is developed using C progarmming language as a part of my first-semester project work for BIT program<br><br>
 => admin.txt stores information entered by the admin during registration. <br>
 => breakfast_menu.txt contains the list of breakfast menu items. <br>
 => desserts_menu.txt includes the list of dessert menu items. <br>
