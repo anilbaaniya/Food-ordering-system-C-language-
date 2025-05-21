@@ -1,0 +1,8 @@
+1,Khana set(veg),300.00
+2,Khana set(Chicken),400.00
+3,Khana set(Mutton),500.00
+4,Khana set(Fish),450.00
+5,Thakali Khana set(veg),400.00
+6,Thakali Khana set(Chicken),500.00
+7,Thakali Khana set(Mutton),600.00
+8,Thakali Khana set(Fish),500.00
