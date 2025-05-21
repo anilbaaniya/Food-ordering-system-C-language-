@@ -1,0 +1,9 @@
+1,Banana Lassi,150.00
+2,Fresh Lime Soda,100.00
+3,Pineapple Juice,210.00
+4,Apple Juice,250.00
+5,Lemon Tea,50.00
+6,Cappuccino,180.00
+7,CocaCola,150.00
+8,Sprite,140.00
+9,Red Bull,210.00
